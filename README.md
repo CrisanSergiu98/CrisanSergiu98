@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning ASP.NET
 - 💞️ I’m looking to collaborate on pretty much any C# project.
 - 📫 How to reach me: cdsergiu@outlook.com
+- https://crisansergiu98.github.io/portfolio/
 
 <!---
 CrisanSergiu98/CrisanSergiu98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
